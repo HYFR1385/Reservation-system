@@ -1,0 +1,3 @@
+23969        hossein        yoosefi           1234           5678           iran         500000
+10530          blody      nazparvar        1385511        6349723          aragh          1e+06
+25686       mohammad          allah        5453332       23343443          italy         500000
